@@ -5,9 +5,7 @@ Here are three functions we had to program for our course Programming in Psychol
 
 <b>remind_me()</b>
 
-You can use the remind_me function without any commands:
-remind_me()
-[1] "rice vinegar" "feta"         "cream cheese" "cucumber"     "apples"       "coke zero"
+You can use the remind_me function without any commands
 
 <b>cheat()</b>
 
@@ -23,6 +21,10 @@ number = NULL
 title = "Title"
 
 # Examples
+<i>#Run this line:</i>
+
+remind_me()
+
 <i>#Run this line:</i>
 
 cheat("Q.3.1.1")
